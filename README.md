@@ -6,7 +6,7 @@ During the 2015-2016 season, GSW coach Steve Kerr was recovering from back surge
 
 The next year Walton took the head coaching job of the Lakers, leading the team to a record of 26-56. What happened? Walton's coaching didn't drasticly change. 
 
-Obviously, what changed were the rosters. The Warriors had four likely Hall of Famers, and 3 of them in the conversation of the best shooters of all time. The Lakers on the other hand--a young, rebuilding team with a handful of past-their-prime veterans--didn't stand a chance vs most teams. 
+Obviously, what changed were the rosters. The Warriors had four likely Hall of Famers; three of their players are in the conversation for best shooter of all time. The Lakers on the other hand--a young, rebuilding team with a handful of past-their-prime veterans--didn't stand a chance vs most teams. 
 
 Distinguishing the difference between is not easy. The only stats we track about coaches is how old they are and what their win-loss record is; the Luke Walton anecdote shows how misleading it can be to only look at wins and losses. Box scores don't keep track of how loud the coach is, or the timeliness of his or her time outs.  
 
