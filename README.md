@@ -10,12 +10,7 @@ Obviously, what changed were the rosters. The Warriors had four likely Hall of F
 
 Distinguishing the difference between is not easy. The only stats we track about coaches is how old they are and what their win-loss record is; the Luke Walton anecdote shows how misleading it can be to only look at wins and losses. Box scores don't keep track of how loud the coach is, or the timeliness of his or her time outs.  
 
-Coaches do many things, some of which are intangible. They boost morale and lead the locker room, keeping the team happy and cohesive: basketball is a team sport after all. Coaches also develop players' skills like ball handling and shooting. 
-
-, Leadership, “locker room stuff”
-Skills development (improving jump shot or ball handling).
-Substitutions, lineups, matchups
-
+Coaches do many things, some of which are intangible. They lead the locker room and keep the team happy and cohesive: basketball is a team sport after all. Coaches also help develop players' skills like ball handling and shooting. They also have more directly on-court impacts because they control things like substitutions, lineups, and matchups. They can use their power to keep players in check: substitutions give chuckers a consience and encourage scorers to hustle on defence. Coaches also design the scheme and plays that put their players in the best possible positions to score.
 
 ![](ShotClockvsScoringEfficency.png)
 ![](QuantifyingNBACoachingShotClockManagement.png)
