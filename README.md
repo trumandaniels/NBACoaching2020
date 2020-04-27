@@ -34,9 +34,11 @@ Four shot quality factors I found statistics for in the NBA's player-tracking da
 
 The Mid 2000's Pheonix Suns lead by Steve Nash and their coach Mike D'antoni were an electric, offensive powerhouse. The Suns pioneered a high-pace, 3pter-heavy style of offense that is incredibly popular today. What makes playing with a high pace so effective is that the defense doesn't get the opportunity to set itself before the offense either attacks the basket or the 3pt line. Players are much more likely to score on a fast break than in a half court set. 
 
-Using the data collected by the web scraping tool I built, we can construct a graph of how valuable a 2pt or 3pt shot is based on how many seconds are left in the shotclock:
+Using the data collected by the web scraping tool I built, we can construct a graph of the average value a 2pt or 3pt has based on how many seconds are left in the shotclock:
 
 ![](ShotClockvsScoringEfficency.png)
+
+We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Repeat with defensive distributions and combine and you get the following graph:
 
 ![](QuantifyingNBACoachingShotClockManagement.png)
 
