@@ -38,6 +38,8 @@ Using the data collected by the web scraping tool I built, we can construct a gr
 
 ![](ShotClockvsScoringEfficency.png)
 
+As you can see above, teams that are unable to take a shot at the start of the shot clock have their shooting accuracy plummet. 
+
 We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Repeat with defensive distributions and combine and you get the following graph:
 
 ![](QuantifyingNBACoachingShotClockManagement.png)
