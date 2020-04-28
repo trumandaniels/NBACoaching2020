@@ -52,10 +52,12 @@ Which appears to be correlated with pace:
 
 ![](QuantifyingNBACoachingPace.png)
 
-The pearson r coefficent was 0.97 (1=perfect correlation, 0=no correlationship). So pace and offensive shot clock management are highly correlated. This makes a lot of sense: teams that shoot earlier in the shot clock get more possessions because basketball is a time-limited game. 
+The pearson r coefficent was 0.97 (1=perfect correlation, 0=no correlation). So pace and offensive shot clock management are highly correlated. This makes a lot of sense: teams that shoot earlier in the shot clock get more possessions (and hence play at a higher pace) because basketball is a time-limited game. 
 
 We repeat this same process with defensive distributions. Then, we find the difference between offensive shot clock management and defensive shot clock management and get the following graph:
 
 ![](QuantifyingNBACoachingShotClockManagement.png)
 
-To be continued...
+which is my way of evaluating talent ambvilant shot selection.
+
+To be continued with other shot-quality indicators...
