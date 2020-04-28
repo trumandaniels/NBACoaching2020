@@ -16,7 +16,7 @@ There are two factors that determine which team wins and which team loses. These
 1. the team with more possessions
 2. the team that converts possessions into points more effectively
 
-The former is difficult to parse. When a player turns the ball over, is that his fault or the coaches fault? When a player steals the ball is that because the coach created a brilliant defensive gameplan or because the player saw the play developing and jumped a passing lane? I want to look into this more, maybe by comparing the consistency of certain team statistics from year-to-year. But for now I'm going to focus on deciphering the coaches impact on the latter. 
+The former is difficult to parse player value out of. When a player turns the ball over, is that his fault or the coaches fault? When a player steals the ball is that because the coach created a brilliant defensive gameplan or because the player saw the play developing and jumped a passing lane? I want to look into this more, maybe by comparing the consistency of certain team statistics from year-to-year. But for now I'm going to focus on deciphering the coaches impact on the latter. 
 
 At least intuitively, coaches should have significant influence over shot selection, both by getting guys open with well designed plays and by keeping rogue shooters in check. If we remove individual player talent at converting posessions (making shots) and just look at the opportunities it is a way to measure coaching value. These same arguments also apply to the defensive side of coaching, good coaches prevent opposing teams from getting easy looks.
 
