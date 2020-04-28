@@ -42,11 +42,17 @@ As you can see above, teams that are unable to take a shot at the start of the s
 
 ![](WhenTeamsShootAverageOffShotClockDistr.png)
 
-### Quantifyinng Shot Clock Management
+### Quantifying Shot Clock Management
 
-We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Here is a graph of NBA teams sorted by.
+We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Here is a graph of NBA teams sorted by this metric:
+
+![](QuantifyingNBACoachingOffensiveShotClockManagement.png)
+
+Which appears to be correlated with pace:
 
 ![](QuantifyingNBACoachingPace.png)
+
+The pearson r coefficent was 0.97 (1=perfect correlation, 0=no correlationship). So pace and offensive shot clock management are highly correlated. This makes a lot of sense: teams that shoot earlier in the shot clock get more possessions because basketball is a time-limited game. 
 
 We repeat this same process with defensive distributions. Then, we find the difference between offensive shot clock management and defensive shot clock management and get the following graph:
 
