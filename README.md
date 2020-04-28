@@ -38,11 +38,17 @@ Using the data collected by the web scraping tool I built, we can construct a gr
 
 ![](ShotClockvsScoringEfficency.png)
 
-As you can see above, teams that are unable to take a shot at the start of the shot clock have their shooting accuracy plummet. So how do most teams shoot?
+As you can see above, teams that are unable to take a shot at the start of the shot clock have their shooting accuracy plummet. So how do teams manage the shot clock on average?
 
 ![](WhenTeamsShootAverageOffShotClockDistr.png)
 
-We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Repeat with defensive distributions and combine and you get the following graph:
+### Quantifyinng Shot Clock Management
+
+We can then map each team's unique shot clock shot attempts distribution onto the average distribution of outcomes (above) weighting the ratio of 2pters and 3pters to create a new offensive metric. Here is a graph of NBA teams sorted by.
+
+![](QuantifyingNBACoachingPace.png)
+
+We repeat this same process with defensive distributions. Then, we find the difference between offensive shot clock management and defensive shot clock management and get the following graph:
 
 ![](QuantifyingNBACoachingShotClockManagement.png)
 
