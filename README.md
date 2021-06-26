@@ -8,11 +8,13 @@ The next year Walton took the head coaching job of the Lakers, leading the team 
 
 Obviously, what changed were the rosters. The Warriors had four likely Hall of Famers; three of their players are in the conversation for best shooter of all time. The Lakers on the other hand--a young, rebuilding team with a handful of past-their-prime veterans--didn't stand a chance vs most teams. 
 
-Distinguishing the difference between is not easy. The only stats we track about coaches is how old they are and what their win-loss record is; the Luke Walton anecdote shows how misleading it can be to only look at wins and losses. Box scores don't keep track of how loud the coach is, or the timeliness of his or her time outs.  
+Distinguishing the difference between a good coach and a bad coach is not easy. The only stats tracked about coaches is how old they are and what their win-loss record is; the Luke Walton anecdote shows how misleading it can be to only look at wins and losses. Box scores don't keep track of how loud the coach is, or the timeliness of his or her time outs.  
 
-Coaches do many things, some of which are intangible. They lead the locker room and keep the team happy and cohesive: basketball is a team sport after all. Coaches also help develop players' skills like ball handling and shooting. They also have more direct on-court impact: they control things like substitutions, lineups, and matchups. They use their power to keep players in check: substitutions give chuckers a consience and encourage scorers to hustle on defence. Coaches design the gameplan, scheme, and plays that put players in the best possible positions to score.
+Coaches do many things, some of which are unmeasurable. They lead the locker room and keep the team happy and cohesive. Basketball is a **team** sport after all. Coaches also help develop players' skills like ball handling and shooting. They also have more direct on-court impact: they control things like substitutions, lineups, and matchups. They use their power as the off-court team leader to keep players in check: substitutions give chuckers a consience and encourage scorers to hustle on defence. Coaches design the gameplan, scheme, and plays that put players in the best possible positions to score. 
 
-There are two factors that determine which team wins and which team loses. These are:
+As well as some people can coach, the players themselves execute the gameplan and actually touch the ball or block a shot. As a fan or decision maker, I want to know if my coach is a good coach.
+
+We can boil down which team wins and which team loses into 2 factors:
 1. the team with more possessions
 2. the team that converts possessions into points more effectively
 
